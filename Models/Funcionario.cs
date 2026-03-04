@@ -12,7 +12,7 @@ namespace Aula03RH.Models
 
         public string Nome { get; set; } = "";
 
-        public string Cpf { get; set; } string 
+        public string Cpf { get; set; } = string.Empty ;
 
         public DateTime DataAdmissao { get; set; } 
         
